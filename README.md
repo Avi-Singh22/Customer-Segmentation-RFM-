@@ -1,5 +1,6 @@
-# Customer-Segmentation-RFM-
-Data Analysis project
+# Customer-Segmentation-RFM
+
+[Dataset](https://docs.google.com/spreadsheets/d/1lEVFBrB6mo27kG_-pFhBVULjl3FS7PBM/edit#gid=1682014107)
 
 - Built a clustering to identify major customer segments on demographic and psychographic-based data to optimize the impact of marketing campaigns. 
 - Engineered features to obtain new features such as RFM, RFMGroup, and RFMScore for getting more details about the customers' purchasing behaviour.
@@ -9,3 +10,4 @@ RFM is a form of segmentation, where customers are ranked according to their Rec
 For this project, the following are the insights gained from the segmentation analysis:
 
 ![Screenshot_20230104_143003](https://user-images.githubusercontent.com/117560882/210519647-f47ee69e-994a-4d5d-b13a-86a830eebb22.png)
+
